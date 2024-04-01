@@ -1,0 +1,25 @@
+D:\C#\AppStudents_DB\AppStudents_DB\bin\Debug\AppStudents_DB.exe.config
+D:\C#\AppStudents_DB\AppStudents_DB\bin\Debug\AppStudents_DB.exe
+D:\C#\AppStudents_DB\AppStudents_DB\bin\Debug\AppStudents_DB.pdb
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.csproj.AssemblyReference.cache
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.csproj.SuggestedBindingRedirects.cache
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.Properties.Resources.resources
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.csproj.GenerateResource.cache
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.csproj.CoreCompileInputs.cache
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.exe
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.pdb
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.Form1.resources
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.FormLogin.resources
+D:\C#\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.FormRegister.resources
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\bin\Debug\AppStudents_DB.exe.config
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\bin\Debug\AppStudents_DB.exe
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\bin\Debug\AppStudents_DB.pdb
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.csproj.AssemblyReference.cache
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.Form1.resources
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.FormLogin.resources
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.FormRegister.resources
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.Properties.Resources.resources
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.csproj.GenerateResource.cache
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.csproj.CoreCompileInputs.cache
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.exe
+D:\yeba\4курс\Курсовая долг\AppStudents_DB\AppStudents_DB\obj\Debug\AppStudents_DB.pdb
